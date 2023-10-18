@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
 <h3 align="center">I am an Information Science and Engineering undergrad at BMS College of Engineering.</h3>
 
-- 👯 I’m looking to collaborate on **e-commerce websites**
-
 - 📫 How to reach me **singhritik2711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
