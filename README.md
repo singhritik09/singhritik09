@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
-<h3 align="center">I am an Information Science and Engineering undergrad at BMS College of Engineering.</h3>
+<h3 align="center">Software professional with experience in web-app development and platform management</h3>
 
 - 📫 How to reach me **singhritik2711@gmail.com**
 
