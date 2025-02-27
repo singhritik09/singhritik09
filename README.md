@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ritik Singh</h1>
-<h3 align="center">Software professional with experience in web-app development and platform management</h3>
+<h1 align="center">Ritik Singh</h1>
+<h3 align="center">Let’s connect to discuss how technology can drive transformation and deliver real-world value!</h3>
 
-- 📫 How to reach me **singhritik2711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-singh-71346b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-singh-71346b209/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@singhritik2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@singhritik2711" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ritiksinghis20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritiksinghis20" height="30" width="40" /></a>
+<a href="[https://www.geeksforgeeks.org/user/singh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritiksinghis20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
